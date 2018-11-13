@@ -1,5 +1,6 @@
 {
     "terminal.integrated.fontWeight": "500",
     "terminal.integrated.fontSize": 15,
-    "terminal.integrated.fontFamily": "Pt Mono"
+    "terminal.integrated.fontFamily": "Pt Mono",
+    "python.pythonPath": "/anaconda3/bin/python"
 }
